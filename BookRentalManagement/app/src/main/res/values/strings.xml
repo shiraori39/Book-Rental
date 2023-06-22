@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Rental Management</string>
+    <string name="ng_nh_p_tit">LOGIN</string>
+    <string name="Main_Screen_Btn_Sach">BOOKS</string>
+    <string name="Main_Screen_Btn_Khach">CUSTOMER</string>
+    <string name="Main_Screen_Btn_NV">STAFF</string>
+    <string name="Main_Screen_Btn_HT">SUPPORT</string>
+    <string name="Main_Screen_Btn_report">REPORTS</string>
+    <string name="Main_Screen_Btn_request">ORDERS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="order_waiting_fragment">Waiting</string>
+    <string name="order_renting_fragment">Renting</string>
+    <string name="order_complete_fragment">Complete</string>
+    <string name="order_cancel_fragment">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
